@@ -349,7 +349,6 @@ Public portfolio content should exclude:
 - environment-specific secrets;
 - instructor solution material.
 
-The included [`.gitignore`](.gitignore) provides an additional safeguard against committing common credential and local-environment files.
 
 ---
 
