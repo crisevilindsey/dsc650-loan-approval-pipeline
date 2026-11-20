@@ -6,6 +6,7 @@
 
 > **End-to-end data engineering and machine learning pipeline built across the Hadoop ecosystem.**  
 > **Platform & Runtime:** Google Cloud Platform • Docker • Linux
+> **Execution note:** This pipeline ran on a multi-service Google Cloud Platform environment (NiFi, HDFS, Hive, Spark on YARN, and HBase in Docker). The cloud environment has since been shut down to avoid ongoing costs, so the pipeline cannot be rerun as-is. The screenshots in each component folder document the successful end-to-end execution, and all source code, SQL, NiFi flow definitions, and HBase commands are included so the pipeline can be redeployed on any comparable Hadoop-ecosystem environment.
 
 ## Project Overview
 
